@@ -1,1 +1,1 @@
-# AWS-Cloud-Practitioner-Cerification-Notes
+# AWS-Cloud-Practitioner-Certification-Notes
