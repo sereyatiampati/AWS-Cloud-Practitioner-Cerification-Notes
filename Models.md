@@ -19,3 +19,14 @@ Let's break down the differences between SaaS, PaaS, and IaaS:
 - Example: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform.
 
 In summary, SaaS delivers software applications over the internet, PaaS provides a platform for developing and managing applications, and IaaS offers virtualized computing infrastructure. Each model offers different levels of control and abstraction, catering to different needs and use cases.
+
+## Advantages of cloud computing
+The key takeaways from this module are the six advantages of cloud computing:
+
+•Trade fixed expense for variable expense.
+•Benefit from massive economies of scale.
+•Reduce guessing about capacity.
+•Increase speed and agility.
+•Stop spending money on running and maintaining data centers.
+•Go global in minutes.
+
